@@ -13,6 +13,7 @@
     
     District Results before excluding the 9th grade Thomas High School resulsts.
     
+     ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/Original%20Dist%20Summary.png)
      
   
   

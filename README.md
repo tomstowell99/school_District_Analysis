@@ -34,10 +34,51 @@
         
         
         * Math and reading scores by grade
+          The only change here is that for the 9th grade class at Thomas High School. Their grades are now replaced with Nan.
+           This has the affect of not including the averages for the school for the district as a whole.
+        
+          Math scores before changes:
+          
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/Original%20Math%20by%20grade.png)
+          
+          Math scores after changes:
+          
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/Revised%20Math%20by%20grade.png)
+         
+         Reading scores before changes:
+         
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/original%20Reading%20by%20Grade.png)
+          
+         Reading scores after changes:
+         
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/Revised%20Reading%20by%20Grade.png) 
+          
           
         * Scores by school spending
+          Spending per student was not impacted very much by the exclusion of the 9th grade data. In addition there is generally a negative corellation
+          between the per student spending and the testing outcome. 
+               
+          Scores before changes:
+          
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/Original%20scores%20by%20per%20student%20spending.png)
+          
+          Scores after changes:
+          
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/revised%20scores%20by%20per%20student%20spending.png)
+          
         * Scores by school size
+          Small and medium size schools have average math and reading scores that are very similiar. They also have similiar overall passing rates.
+          Large schools have a much lower average math score and a slightly lower reading score. Large schools have a significantly lower overall passing 
+          score.
+
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/original%20size.png)
+                         
+         
         * Scores by school type
+          Charter type has an impact on the success rates in both math and reading. If you attend a charter school you are much more likely to pass the math or 
+          reading test. you are 90% likely to pass both math and reading if attending a charter school versus only 54% if attending a district school
+        
+          ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/revised%20by%20charter%20type.png)
         
         
         

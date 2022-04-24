@@ -7,5 +7,12 @@
   
   ## Results
   
+  * District Summary
+    At the distric level. Our passing rates were only marginally impacted, as you can see on the charts below. one grade from our 15 schools did not have the poplulation
+    to have a significant impact on our overal averages and pass rates.
+    
+    District Results before excluding the 9th grade Thomas High School resulsts.
+    
+     
   
   

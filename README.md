@@ -79,6 +79,17 @@
           reading test. you are 90% likely to pass both math and reading if attending a charter school versus only 54% if attending a district school
         
           ![](https://github.com/tomstowell99/school_District_Analysis/blob/main/Resources/revised%20by%20charter%20type.png)
+          
+     ## Summary
+        summary of the signifcant changes based on the fact that we changed the 9th grade Thomas High School math and reading grades to Nan.
+        This had the impact of excluding their test results from the districts measurements.
+        
+        * The district's average math score dropped from 79% to 78.9%
+        * The district's math pass rate dropped from 75% to 74.8%. 
+        * The districts reading pass rate dropped to 85.7% from 86% and finally 
+        * the distirct's overall passing percent dropped from 65% to 64.9%.
+         
+     
         
         
         
